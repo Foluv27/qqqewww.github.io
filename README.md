@@ -4,8 +4,8 @@
 ![pic](https://sh4n3e.github.io/wedding/assets/img/bg-main-resize.jpg)
 
 ## 예식정보
-+ 일시 : 2021년 2월 20일(토) 12시
-+ 장소 : 코엑스 그래머시 2층 아셈볼룸
++ 일시 : 2022년 6월 11일(토) 11시 30분
++ 장소 : 안산 엠블던 호텔 웨딩&컨벤션
 + 청첩장 : [이곳을 통해 이동](https://sh4n3e.github.io/wedding)
 
 ## 템플릿
