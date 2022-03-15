@@ -1,4 +1,4 @@
-# 이상현과 장미나의 모바일 청첩장
+# 김정환과 신민경의 모바일 청첩장
 ![wedding](https://img.shields.io/badge/Wedding%20Data-2021.02.20-red)
 
 ![pic](https://sh4n3e.github.io/wedding/assets/img/bg-main-resize.jpg)
